@@ -17,6 +17,7 @@
 	<url>https://github.com/scoperetail-io/${project.artifactId}</url>
 
 	<properties>
+		<sonar.organization>fusion-oss</sonar.organization>
 		<spring-web.version>5.3.16</spring-web.version>
 		<servlet-api.version>2.5</servlet-api.version>
 		<zt-zip.version>1.14</zt-zip.version>
