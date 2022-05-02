@@ -19,6 +19,7 @@
 		<spring-web.version>5.3.16</spring-web.version>
 		<servlet-api.version>2.5</servlet-api.version>
 		<zt-zip.version>1.14</zt-zip.version>
+		<springdoc-openapi-ui.version>1.6.3</springdoc-openapi-ui.version>
 	</properties>
 
 	<scm>
@@ -68,6 +69,11 @@
 			<groupId>org.zeroturnaround</groupId>
 			<artifactId>zt-zip</artifactId>
 			<version>${zt-zip.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springdoc</groupId>
+			<artifactId>springdoc-openapi-ui</artifactId>
+			<version>${springdoc-openapi-ui.version}</version>
 		</dependency>
 	</dependencies>
 </project>
