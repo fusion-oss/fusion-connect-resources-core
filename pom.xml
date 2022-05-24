@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.scoperetail.fusion</groupId>
 	<artifactId>fusion-connect-resources-core</artifactId>
-	<version>0.5-SNAPSHOT</version>
+	<version>0.5</version>
 	<name>${project.artifactId}</name>
 	<description>Fusion connect resources core library</description>
 	<url>https://github.com/fusion-oss/${project.artifactId}</url>
@@ -26,7 +26,7 @@
 		<developerConnection>
             scm:git:git@github.com:fusion-oss/${project.artifactId}.git
         </developerConnection>
-		<tag>HEAD</tag>
+		<tag>fusion-connect-resources-core-0.5</tag>
 		<url>https://github.com/fusion-oss/${project.artifactId}</url>
 	</scm>
 
