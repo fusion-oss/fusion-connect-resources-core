@@ -12,7 +12,7 @@
 	<version>0.5-SNAPSHOT</version>
 	<name>${project.artifactId}</name>
 	<description>Fusion connect resources core library</description>
-	<url>https://github.com/scoperetail-io/${project.artifactId}</url>
+	<url>https://github.com/fusion-oss/${project.artifactId}</url>
 
 	<properties>
 		<sonar.organization>fusion-oss</sonar.organization>
@@ -24,10 +24,10 @@
 
 	<scm>
 		<developerConnection>
-            scm:git:git@github.com:scoperetail-io/${project.artifactId}.git
+            scm:git:git@github.com:fusion-oss/${project.artifactId}.git
         </developerConnection>
 		<tag>HEAD</tag>
-		<url>https://github.com/scoperetail-io/${project.artifactId}</url>
+		<url>https://github.com/fusion-oss/${project.artifactId}</url>
 	</scm>
 
 	<developers>
